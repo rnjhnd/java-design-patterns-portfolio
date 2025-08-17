@@ -4,7 +4,7 @@ A Java implementation of the **State Design Pattern** for efficient vending mach
 
 ## 📋 Overview
 
-The Vending Machine State Pattern allows you to manage a vending machine's different operational states (Idle, Item Selected, Dispensing, and Out of Order) using separate state classes. Instead of using complex if-else statements, the system delegates behavior to the current state object, making the code more maintainable and extensible.
+The Vending Machine State Manager allows you to manage a vending machine's different operational states (Idle, Item Selected, Dispensing, and Out of Order) using separate state classes. Instead of using complex if-else statements, the system delegates behavior to the current state object, making the code more maintainable and extensible.
 
 ## 🏗️ Architecture
 
@@ -28,7 +28,7 @@ This project implements the **State Design Pattern** with the following componen
 ![image](https://github.com/user-attachments/assets/ae7b7c13-00ae-4639-b7a1-576aedbc6b7e)
 
 The following diagram illustrates:
-- The architecture of the Vending Machine State Pattern
+- The architecture of the Vending Machine State Manager
 - Relationships between the core components:
   - The `VendingMachineState` interface
   - Concrete implementations: `IdleState`, `ItemSelectedState`, `DispensingState`, `OutOfOrderState`

@@ -4,7 +4,7 @@ A Java implementation of the **Adapter Design Pattern** for integrating diverse 
 
 ## 📋 Overview
 
-The School Management Adapter provides a unified interface for managing various school systems that have different APIs and methods. Instead of modifying existing systems or creating complex integration logic, the project uses adapter classes to translate between the target interface (`SchoolManagementApp`) and the adaptee systems (`AttendanceSystem`, `GradingSystem`, `LibrarySystem`).
+The School Management System provides a unified interface for managing various school systems that have different APIs and methods. Instead of modifying existing systems or creating complex integration logic, the project uses adapter classes to translate between the target interface (`SchoolManagementApp`) and the adaptee systems (`AttendanceSystem`, `GradingSystem`, `LibrarySystem`).
 
 ## 🏗️ Architecture
 

@@ -1,10 +1,10 @@
-# Smart Home Automation
+# Smart Home Control System
 
 A Java implementation of the **Command Design Pattern** for smart home device control and automation. This project demonstrates how to create a flexible and extensible system for controlling various smart home devices through a unified command interface.
 
 ## 📋 Overview
 
-The Smart Home Automation system provides a centralized control mechanism for managing multiple smart home devices including lights, music systems, and thermostats. Using the Command pattern, the system encapsulates device operations as objects, allowing for easy device control, command queuing, and system extensibility without modifying existing code.
+The Smart Home Control system provides a centralized control mechanism for managing multiple smart home devices including lights, music systems, and thermostats. Using the Command pattern, the system encapsulates device operations as objects, allowing for easy device control, command queuing, and system extensibility without modifying existing code.
 
 ## 🏗️ Architecture
 

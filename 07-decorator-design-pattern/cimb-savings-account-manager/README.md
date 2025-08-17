@@ -28,7 +28,7 @@ This project implements the Decorator Design Pattern with the following componen
 
 The following diagram illustrates:
 
-- The architecture of the University Structure Manager
+- The architecture of the CIMB Savings Account Manager
 - Relationships between the core components:
    - The `BankAccount` component interface
    - `SavingsAccount` as the concrete component

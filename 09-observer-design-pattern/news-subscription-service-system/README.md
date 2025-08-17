@@ -4,7 +4,7 @@ A Java implementation of the **Observer Design Pattern** for real-time news subs
 
 ## 📋 Overview
 
-The News Subscription Observer allows you to create a dynamic news distribution system where a central news agency can publish breaking news and automatically notify all subscribed users. Instead of manually managing notification lists, the system uses the Observer pattern to maintain loose coupling between the news publisher and subscribers.
+The News Subscription Service System allows you to create a dynamic news distribution system where a central news agency can publish breaking news and automatically notify all subscribed users. Instead of manually managing notification lists, the system uses the Observer pattern to maintain loose coupling between the news publisher and subscribers.
 
 ## 🏗️ Architecture
 

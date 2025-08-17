@@ -12,7 +12,7 @@ The University Structure Manager lets you compose a hierarchy of colleges and de
 
 ## 🏗️ Architecture
 
-This project implements the Composite Design Pattern with the following components:
+This project implements the **Composite Design Pattern** with the following components:
 
 - **UniversityComponent (interface)**: Defines the contract for all units (budget, student count, display)
 - **Composite classes**: `College`, `Department`

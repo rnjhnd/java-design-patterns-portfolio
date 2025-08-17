@@ -1,6 +1,6 @@
 # SOLID Principles Refactoring Exercises
 
-A comprehensive Java implementation demonstrating the **SOLID Principles** through practical refactoring exercises. This project showcases how to transform code that violates SOLID principles into clean, maintainable, and extensible solutions.
+A Java implementation demonstrating the **SOLID Principles** through practical refactoring exercises. This project showcases how to transform code that violates SOLID principles into clean, maintainable, and extensible solutions.
 
 ## 📋 Overview
 
@@ -16,7 +16,7 @@ Each principle is demonstrated through before-and-after code examples, showing c
 
 ## 🏗️ Architecture
 
-This project is organized into four main modules, each focusing on a specific SOLID principle:
+This project is organized into four main modules, each focusing on a specific **SOLID design principle**:
 
 - **SRP Module**: Demonstrates separation of concerns by splitting responsibilities
 - **OCP Module**: Shows how to extend functionality without modifying existing code

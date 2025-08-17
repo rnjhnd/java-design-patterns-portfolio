@@ -1,4 +1,4 @@
-# Real-Time News Subscription Service
+# News Subscription Service System
 
 A Java implementation of the **Observer Design Pattern** for real-time news subscription management. This project demonstrates how to build a scalable, decoupled notification system where subscribers receive immediate updates when breaking news is published.
 

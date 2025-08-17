@@ -28,7 +28,7 @@ This project implements the **Observer Design Pattern** with the following compo
 ![image](https://github.com/user-attachments/assets/f92438bc-eea1-43e5-88c3-5fc6b9e4445f)
 
 The following diagram illustrates:
-- The architecture of the News Subscription Observer
+- The architecture of the News Subscription Service System
 - Relationships between the core components:
   - The `NewsAgencySubject` interface
   - The `SubscriberObserver` interface

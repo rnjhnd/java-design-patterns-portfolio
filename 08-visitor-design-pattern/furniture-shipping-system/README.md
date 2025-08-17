@@ -4,7 +4,7 @@ A Java implementation of the **Visitor Design Pattern** for calculating shipping
 
 ## 📋 Overview
 
-The Furniture Shipping Visitor allows you to calculate shipping costs for various furniture items (chairs, tables, and sofas) using different shipping strategies. Instead of embedding shipping logic within each furniture class, the system uses visitor objects to perform cost calculations, making the code more maintainable and extensible.
+The Furniture Shipping System allows you to calculate shipping costs for various furniture items (chairs, tables, and sofas) using different shipping strategies. Instead of embedding shipping logic within each furniture class, the system uses visitor objects to perform cost calculations, making the code more maintainable and extensible.
 
 ## 🏗️ Architecture
 

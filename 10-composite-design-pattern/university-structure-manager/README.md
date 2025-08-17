@@ -31,7 +31,7 @@ This project implements the Composite Design Pattern with the following componen
 The following diagram illustrates:
 
 - The architecture of the University Structure Manager
-   - Relationships between the core components:
+- Relationships between the core components:
    - The UniversityComponent interface
    - Composite implementations: College, Department
    - Leaf implementations: Teacher, Student

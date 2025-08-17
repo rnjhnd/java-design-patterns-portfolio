@@ -56,7 +56,7 @@ This project implements the **Adapter Design Pattern** with the following compon
                             └─────────────────────┘
 ```
 The following diagram illustrates:
-- The architecture of the School Management Adapter
+- The architecture of the School Management System
 - Relationships between the core components:
   - The `SchoolManagementApp` interface
   - Legacy systems: `AttendanceSystem`, `GradingSystem`, `LibrarySystem`

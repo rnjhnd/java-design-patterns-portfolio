@@ -25,7 +25,6 @@ This project implements the **Strategy Design Pattern** with the following compo
 - **Single Responsibility**: Each class has a single, well-defined purpose
 
 ## 📊 UML Class Diagram
-<img width="1293" height="807" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/72928d46-cc5d-4dd1-9afe-84d022ee3dd1" />
 
 The following diagram illustrates:
 - The architecture of the Game Character Combat Strategies system

@@ -32,10 +32,10 @@ The following diagram illustrates:
 
 - The architecture of the University Structure Manager
 - Relationships between the core components:
-   - The UniversityComponent interface
-   - Composite implementations: College, Department
-   - Leaf implementations: Teacher, Student
-   - The Client class for building and managing the hierarchy
+   - The `UniversityComponent` interface
+   - Composite implementations: `College`, `Department`
+   - Leaf implementations: `Teacher`, Student`
+   - The `Client` class for building and managing the hierarchy
 - How the Composite design pattern is applied in this project
 
 ## 🚀 Features

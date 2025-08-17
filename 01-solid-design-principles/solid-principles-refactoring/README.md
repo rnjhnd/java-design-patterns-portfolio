@@ -43,23 +43,25 @@ This project is organized into four main modules, each focusing on a specific SO
 
 ```
 solid-principles-refactoring/
-├── src/
-│   ├── SRP/                                      # Single Responsibility Principle
+├── single-responsibility-principle/              # Single Responsibility Principle
+│   ├── src/                                      # Source code files
 │   │   ├── Pet.java                              # Pet entity class
 │   │   ├── PetActions.java                       # Actions interface
 │   │   ├── Dog.java                              # Dog implementation
 │   │   ├── Cat.java                              # Cat implementation
-│   │   ├── PetDemo.java                          # SRP demonstration
-│   │   └── README.md                             # Problem statement
-│   ├── OCP/                                      # Open/Closed Principle
+│   │   └── PetDemo.java                          # SRP demonstration
+│   └── README.md                                 # Problem statement
+├── open-closed-principle/                        # Open/Closed Principle
+│   ├── src/                                      # Source code files
 │   │   ├── Customer.java                         # Customer class with strategy pattern
 │   │   ├── DiscountHandler.java                  # Discount strategy interface
 │   │   ├── Student.java                          # Student discount strategy
 │   │   ├── SeniorCitizen.java                    # Senior citizen discount strategy
 │   │   ├── Regular.java                          # Regular customer strategy
-│   │   ├── DiscountDemo.java                     # OCP demonstration
-│   │   └── README.md                             # Problem statement
-│   ├── ISP/                                      # Interface Segregation Principle
+│   │   └── DiscountDemo.java                     # OCP demonstration
+│   └── README.md                                 # Problem statement
+├── interface-segregation-principle/              # Interface Segregation Principle
+│   ├── src/                                      # Source code files
 │   │   ├── CallingFunctionality.java             # Calling interface
 │   │   ├── MessagingFunctionality.java           # Messaging interface
 │   │   ├── WebBrowsingFunctionality.java         # Web browsing interface
@@ -67,16 +69,17 @@ solid-principles-refactoring/
 │   │   ├── BasicPhone.java                       # Basic phone implementation
 │   │   ├── Samsung.java                          # Samsung smartphone implementation
 │   │   ├── IPhone.java                           # iPhone implementation
-│   │   ├── PhoneDemo.java                        # ISP demonstration
-│   │   └── README.md                             # Problem statement
-│   └── DIP/                                      # Dependency Inversion Principle
-│       ├── PaymentMethod.java                    # Payment method interface
-│       ├── PaymentProcessor.java                 # Payment processor with dependency injection
-│       ├── CashPayment.java                      # Cash payment implementation
-│       ├── CreditCardPayment.java                # Credit card payment implementation
-│       ├── EWalletPayment.java                   # E-wallet payment implementation
-│       ├── PaymentDemo.java                      # DIP demonstration
-│       └── README.md                             # Problem statement
+│   │   └── PhoneDemo.java                        # ISP demonstration
+│   └── README.md                                 # Problem statement
+├── dependency-inversion-principle/               # Dependency Inversion Principle
+│   ├── src/                                      # Source code files
+│   │   ├── PaymentMethod.java                    # Payment method interface
+│   │   ├── PaymentProcessor.java                 # Payment processor with dependency injection
+│   │   ├── CashPayment.java                      # Cash payment implementation
+│   │   ├── CreditCardPayment.java                # Credit card payment implementation
+│   │   ├── EWalletPayment.java                   # E-wallet payment implementation
+│   │   └── PaymentDemo.java                      # DIP demonstration
+│   └── README.md                                 # Problem statement
 └── README.md                                     # Project documentation
 ```
 
@@ -91,26 +94,33 @@ solid-principles-refactoring/
 
 1. **Clone or download** the project files
 2. **Navigate** to the project directory
-3. **Compile** the Java files:
+3. **Compile** the Java files for each principle:
    ```bash
-   javac src/SRP/*.java
-   javac src/OCP/*.java
-   javac src/ISP/*.java
-   javac src/DIP/*.java
+   # Single Responsibility Principle
+   javac single-responsibility-principle/src/*.java
+   
+   # Open/Closed Principle
+   javac open-closed-principle/src/*.java
+   
+   # Interface Segregation Principle
+   javac interface-segregation-principle/src/*.java
+   
+   # Dependency Inversion Principle
+   javac dependency-inversion-principle/src/*.java
    ```
 4. **Run** individual demonstrations:
    ```bash
    # SRP Demo
-   java -cp src SRP.PetDemo
+   java -cp single-responsibility-principle/src PetDemo
    
    # OCP Demo
-   java -cp src OCP.DiscountDemo
+   java -cp open-closed-principle/src DiscountDemo
    
    # ISP Demo
-   java -cp src ISP.PhoneDemo
+   java -cp interface-segregation-principle/src PhoneDemo
    
    # DIP Demo
-   java -cp src DIP.PaymentDemo
+   java -cp dependency-inversion-principle/src PaymentDemo
    ```
 
 ## 📖 Usage

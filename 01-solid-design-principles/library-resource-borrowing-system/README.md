@@ -40,7 +40,7 @@ The following diagram illustrates:
   - The `Borrowable` interface as the abstraction
   - Concrete implementations: `Book`, `Journal`, `AudioBook`, `EJournal`
   - The `Student` class depending on the `Borrowable` abstraction
-- How the Dependency Inversion Principle is applied in this project
+- How the SOLID Design Principles are applied in this project
 
 ## 🚀 Features
 

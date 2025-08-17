@@ -4,7 +4,7 @@ A Java implementation of the **Command Design Pattern** for smart home device co
 
 ## 📋 Overview
 
-The Smart Home Control system provides a centralized control mechanism for managing multiple smart home devices including lights, music systems, and thermostats. Using the Command pattern, the system encapsulates device operations as objects, allowing for easy device control, command queuing, and system extensibility without modifying existing code.
+The Smart Home Control System provides a centralized control mechanism for managing multiple smart home devices including lights, music systems, and thermostats. Using the Command pattern, the system encapsulates device operations as objects, allowing for easy device control, command queuing, and system extensibility without modifying existing code.
 
 ## 🏗️ Architecture
 

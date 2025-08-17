@@ -27,7 +27,7 @@ This project implements the **Visitor Design Pattern** with the following compon
 <img width="964" height="575" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/14bbcc23-869a-4d69-89ae-937bd8c842e2" />
 
 The following diagram illustrates:
-- The architecture of the Telecom Plan Visitor
+- The architecture of the Telecom Plan Management System
 - Relationships between the core components:
   - The `TelcoSubscription` interface
   - The `Telco` concrete implementation

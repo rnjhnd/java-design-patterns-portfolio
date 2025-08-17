@@ -87,7 +87,7 @@ order-management-system/
 
 ### Basic Usage
 
-The main application (`OrderTest.java`) demonstrates how to use the SOLID-based system:
+The main application (`OrderTest.java`) demonstrates how to use the SOLID design principles:
 
 ```java
 // Create concrete implementations

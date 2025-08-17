@@ -24,8 +24,6 @@ This project implements the **Facade Design Pattern** with the following compone
 
 ## 📊 UML Class Diagram
 
-![image](https://github.com/user-attachments/assets/c49aa490-6d33-4491-9773-d45630d54481)
-
 The following diagram illustrates:
 - The architecture of the Intelligent Home System
 - Relationships between the core components:

@@ -1,4 +1,4 @@
-# School Management Adapter System
+# School Management System
 
 A Java implementation of the **Adapter Design Pattern** for integrating diverse school management systems into a unified application. This project demonstrates how to seamlessly connect different school systems (attendance, grading, and library management) through adapter classes that translate incompatible interfaces.
 

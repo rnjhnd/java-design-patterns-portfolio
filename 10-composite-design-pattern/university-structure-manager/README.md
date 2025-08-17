@@ -28,7 +28,15 @@ This project implements the Composite Design Pattern with the following componen
 ## 📊 UML Class Diagram
 <img width="2080" height="960" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/dba21021-acd3-4e97-83cf-e4d56cb5e426" />
 
-The diagram shows the `UniversityComponent` interface, composite implementations (`College`, `Department`), leaf implementations (`Teacher`, `Student`), and the `Client` that composes them.
+The following diagram illustrates:
+
+- The architecture of the University Structure Manager
+   - Relationships between the core components:
+   - The UniversityComponent interface
+   - Composite implementations: College, Department
+   - Leaf implementations: Teacher, Student
+   - The Client class for building and managing the hierarchy
+- How the Composite design pattern is applied in this project
 
 ## 🚀 Features
 

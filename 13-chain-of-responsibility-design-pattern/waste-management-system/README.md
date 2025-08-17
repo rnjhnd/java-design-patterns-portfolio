@@ -112,7 +112,6 @@ The following diagram illustrates:
   - The `WasteContainer` model representing waste containers
   - The `WasteManagement` main class that demonstrates the pattern
 - How the Chain of Responsibility design pattern is applied in this project
-- The flow of the chain: Organic → Recyclable → Hazardous → General
 
 ## 🚀 Features
 

@@ -8,7 +8,7 @@ Decorate a base savings account without modifying its code. Apply `GSave` or `Up
 
 ## 🏗️ Architecture
 
-This project implements the Decorator Design Pattern with the following components:
+This project implements the **Decorator Design Pattern** with the following components:
 
 - **BankAccount interface**: Defines the contract shared by the base and all decorators
 - **SavingsAccount (Concrete Component)**: Base implementation

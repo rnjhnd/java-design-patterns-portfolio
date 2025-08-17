@@ -4,7 +4,7 @@ A Java implementation of the **Adapter Design Pattern** for connecting different
 
 ## 📋 Overview
 
-The Device Power Adapter allows you to connect various electronic devices (laptop, refrigerator, smartphone charger) to a common power outlet interface. Instead of modifying existing device classes, the system uses adapter classes to translate between the device-specific APIs and the standardized `PowerOutlet` interface, making device integration more flexible and maintainable.
+The Device Power System allows you to connect various electronic devices (laptop, refrigerator, smartphone charger) to a common power outlet interface. Instead of modifying existing device classes, the system uses adapter classes to translate between the device-specific APIs and the standardized `PowerOutlet` interface, making device integration more flexible and maintainable.
 
 ## 🏗️ Architecture
 

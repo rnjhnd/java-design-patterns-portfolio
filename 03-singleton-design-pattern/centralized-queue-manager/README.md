@@ -25,9 +25,12 @@ This project implements the **Singleton Pattern** with the following components:
 
 <img width="1223" height="632" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/345a6c6a-3647-4b0c-8141-66cf2c58b6bc" />
 
-The following UML class diagram illustrates:
-- The `HelpDesk` singleton and its synchronized operations
-- The `CentralSystem` entry point using the singleton instance
+The following diagram illustrates:
+
+- The architecture of the University Structure Manager
+- Relationships between the core components:
+   - The `HelpDesk` singleton and its synchronized operations
+   - The `CentralSystem` entry point using the singleton instance
 - How the Singleton design pattern is applied in this project
 
 ## 🚀 Features

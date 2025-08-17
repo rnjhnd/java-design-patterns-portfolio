@@ -98,11 +98,18 @@ java-design-patterns-portfolio/
 │   │   │   └── OrderTest.java                                      # Main test program
 │   │   └── README.md                                               # Project documentation
 │   └── solid-principles-refactoring/                               # SOLID Principles Examples
-│       ├── src/                                                    # Source code organized by principle
-│       │   ├── SRP/                                                # Single Responsibility Principle
-│       │   ├── OCP/                                                # Open/Closed Principle
-│       │   ├── ISP/                                                # Interface Segregation Principle
-│       │   └── DIP/                                                # Dependency Inversion Principle
+│       ├── single-responsibility-principle/                        # Single Responsibility Principle
+│       │   ├── src/                                                # Source code files
+│       │   └── README.md                                           # SRP documentation
+│       ├── open-closed-principle/                                  # Open/Closed Principle
+│       │   ├── src/                                                # Source code files
+│       │   └── README.md                                           # OCP documentation
+│       ├── interface-segregation-principle/                        # Interface Segregation Principle
+│       │   ├── src/                                                # Source code files
+│       │   └── README.md                                           # ISP documentation
+│       ├── dependency-inversion-principle/                         # Dependency Inversion Principle
+│       │   ├── src/                                                # Source code files
+│       │   └── README.md                                           # DIP documentation
 │       └── README.md                                               # SOLID principles documentation
 ├── 02-state-design-pattern/                                        # State management patterns
 │   ├── bank-account-state-manager/                                 # Bank Account State Manager

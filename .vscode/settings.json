@@ -1,0 +1,28 @@
+{
+    "java.project.sourcePaths": [
+        "13-chain-of-responsibility-design-pattern/waste-management-system/src",
+        "12-prototype-design-pattern/document-registry-system/src",
+        "12-prototype-design-pattern/animal-registry-system/src",
+        "11-command-design-pattern/smart-home-control-system/src",
+        "10-composite-design-pattern/university-structure-manager/src",
+        "09-observer-design-pattern/news-subscription-service-system/src",
+        "08-visitor-design-pattern/telecom-plan-management-system/src",
+        "08-visitor-design-pattern/furniture-shipping-system/src",
+        "07-decorator-design-pattern/cimb-savings-account-manager/src",
+        "06-strategy-design-pattern/game-character-combat-system/src",
+        "05-adapter-design-pattern/school-management-system/src",
+        "05-adapter-design-pattern/device-power-system/src",
+        "04-facade-design-pattern/intelligent-home-system/src",
+        "04-facade-design-pattern/hotel-management-system/src",
+        "03-singleton-design-pattern/centralized-queue-manager/src",
+        "02-state-design-pattern/vending-machine-state-manager/src",
+        "02-state-design-pattern/bank-account-state-manager/src",
+        "01-solid-design-principles/solid-principles-refactoring/src",
+        "01-solid-design-principles/solid-principles-refactoring/open-closed-principle/src",
+        "01-solid-design-principles/solid-principles-refactoring/interface-segregation-principle/src",
+        "01-solid-design-principles/solid-principles-refactoring/dependency-inversion-principle/src",
+        "01-solid-design-principles/order-management-system/src",
+        "01-solid-design-principles/library-resource-borrowing-system/src",
+        "01-solid-design-principles/solid-principles-refactoring/single-responsibility-principle/src"
+    ]
+}

@@ -1,10 +1,10 @@
-# Document Prototype Manager
+# Document Registry System
 
 A Java implementation of the **Prototype Design Pattern** for efficient document creation and management. This project demonstrates how to use prototype objects to create new document instances without the overhead of complex initialization.
 
 ## 📋 Overview
 
-The Document Prototype Manager allows you to create different types of documents (PDF, Text, and Spreadsheet) using pre-configured prototypes. Instead of creating new document instances from scratch each time, the system clones existing prototype objects, making document creation more efficient and consistent.
+The Document Registry System allows you to create different types of documents (PDF, Text, and Spreadsheet) using pre-configured prototypes. Instead of creating new document instances from scratch each time, the system clones existing prototype objects, making document creation more efficient and consistent.
 
 ## 🏗️ Architecture
 

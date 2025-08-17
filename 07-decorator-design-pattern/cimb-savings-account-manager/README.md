@@ -27,11 +27,15 @@ This project implements the Decorator Design Pattern with the following componen
 <img width="1293" height="807" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/32fef137-db4b-4663-bec2-0717a7206416" />
 
 The diagram illustrates:
-- The `BankAccount` component interface
-- `SavingsAccount` as the concrete component
-- `BankAccountDecorator` as the decorator interface
-- Concrete decorators: `GSave`, `UpSave`
-- How each decorator wraps a `BankAccount` and overrides select behavior
+
+- The architecture of the University Structure Manager
+- Relationships between the core components:
+   - The `BankAccount` component interface
+   - `SavingsAccount` as the concrete component
+   - `BankAccountDecorator` as the decorator interface
+   - Concrete decorators: `GSave`, `UpSave`
+   - How each decorator wraps a `BankAccount` and overrides select behavior
+- How the Decorator design pattern is applied in this project
 
 ## 🚀 Features
 

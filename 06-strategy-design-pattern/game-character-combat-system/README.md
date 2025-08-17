@@ -27,7 +27,7 @@ This project implements the **Strategy Design Pattern** with the following compo
 ## 📊 UML Class Diagram
 
 The following diagram illustrates:
-- The architecture of the Game Character Combat Strategies system
+- The architecture of the Game Character Combat System
 - Relationships between the core components:
   - The `Character` context class
   - Strategy interfaces: `AttackStrategy` and `DefenseStrategy`

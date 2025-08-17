@@ -1,10 +1,10 @@
-# SOLID-Based Order Processing System
+# Order Processing System
 
 A Java implementation of the **SOLID Design Principles** for efficient order processing and management. This project demonstrates how to create a flexible, maintainable, and extensible order processing system by applying SOLID principles to separate concerns and enable easy extension without modifying existing code.
 
 ## 📋 Overview
 
-The SOLID-Based Order Processing System allows you to process orders with automatic invoice generation and email notifications. The system is built using SOLID principles, making it highly modular and allowing you to easily swap implementations or add new features without changing the core orchestration logic.
+The Order Processing System allows you to process orders with automatic invoice generation and email notifications. The system is built using SOLID principles, making it highly modular and allowing you to easily swap implementations or add new features without changing the core orchestration logic.
 
 ## 🏗️ Architecture
 
@@ -30,13 +30,13 @@ This project implements the **SOLID Design Principles** with the following compo
 ![image](https://github.com/user-attachments/assets/e2d22dfc-e584-43a8-822b-7b5291cc0ccd)
 
 The following diagram illustrates:
-- The architecture of the SOLID-Based Order Processing System
+- The architecture of the Order Processing System
 - Relationships between the core components:
   - The `Order`, `InvoiceGenerator`, and `EmailNotifier` interfaces
   - Concrete implementations: `OrderProcessor`, `InvoiceService`, `EmailService`
   - The `OrderManager` orchestrator that depends on abstractions
   - The main application class `OrderTest`
-- How SOLID principles are applied in this project
+- How the SOLID design principles are applied in this project
 
 ## 🚀 Features
 

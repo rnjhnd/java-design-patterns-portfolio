@@ -4,7 +4,7 @@ A Java implementation of the **Strategy Design Pattern** for flexible character 
 
 ## 📋 Overview
 
-The Game Character Combat Strategies system allows you to create different types of characters (Knight, Wizard, and Archer) with distinct combat behaviors. Instead of using conditional statements to determine attack and defense actions, the system uses strategy objects that can be easily swapped and extended. This approach makes the code more flexible, maintainable, and follows the Open/Closed Principle.
+The Game Character Combat System allows you to create different types of characters (Knight, Wizard, and Archer) with distinct combat behaviors. Instead of using conditional statements to determine attack and defense actions, the system uses strategy objects that can be easily swapped and extended. This approach makes the code more flexible, maintainable, and follows the Open/Closed Principle.
 
 ## 🏗️ Architecture
 

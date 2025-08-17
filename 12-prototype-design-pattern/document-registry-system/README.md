@@ -27,7 +27,7 @@ This project implements the **Prototype Design Pattern** with the following comp
 ![image](https://github.com/user-attachments/assets/c49aa490-6d33-4491-9773-d45630d54481)
 
 The following diagram illustrates:
-- The architecture of the Document Prototype Manager
+- The architecture of the Document Registry System
 - Relationships between the core components:
   - The `Document` interface
   - Concrete implementations: `PdfDocument`, `TextDocument`, `SpreadsheetDocument`

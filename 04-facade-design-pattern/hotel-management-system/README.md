@@ -4,7 +4,7 @@ A Java implementation of the **Facade Design Pattern** for simplified hotel oper
 
 ## 📋 Overview
 
-The Hotel Management Facade provides a single, simplified interface (`FrontDesk`) for accessing various hotel services including valet parking, housekeeping, and luggage cart services. Instead of clients needing to interact with each service subsystem directly, they can use the facade to access all services through a clean, high-level API.
+The Hotel Management System provides a single, simplified interface (`FrontDesk`) for accessing various hotel services including valet parking, housekeeping, and luggage cart services. Instead of clients needing to interact with each service subsystem directly, they can use the facade to access all services through a clean, high-level API.
 
 ## 🏗️ Architecture
 
@@ -27,7 +27,7 @@ This project implements the **Facade Design Pattern** with the following compone
 ![UML Class Diagram](https://github.com/user-attachments/assets/ee21370b-96ff-462c-a4a7-3f6728845353)
 
 The following diagram illustrates:
-- The architecture of the Hotel Management Facade
+- The architecture of the Hotel Management System
 - Relationships between the core components:
   - The `FrontDesk` facade class
   - The `HotelService` interface

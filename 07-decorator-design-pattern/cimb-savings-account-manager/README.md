@@ -26,7 +26,7 @@ This project implements the Decorator Design Pattern with the following componen
 ## 📊 UML Class Diagram
 <img width="1293" height="807" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/32fef137-db4b-4663-bec2-0717a7206416" />
 
-The diagram illustrates:
+The following diagram illustrates:
 
 - The architecture of the University Structure Manager
 - Relationships between the core components:

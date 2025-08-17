@@ -27,7 +27,7 @@ This project implements the **Adapter Design Pattern** with the following compon
 <img width="2060" height="1200" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/3c0bac52-8549-4bb4-aa8e-5f20d74ca323" />
 
 The following diagram illustrates:
-- The architecture of the Device Power Adapter system
+- The architecture of the Device Power System
 - Relationships between the core components:
   - The `PowerOutlet` interface
   - Concrete device classes: `Laptop`, `Refrigerator`, `SmartphoneCharger`

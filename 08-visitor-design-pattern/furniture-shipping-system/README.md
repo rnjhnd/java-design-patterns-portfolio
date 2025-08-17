@@ -28,7 +28,7 @@ This project implements the **Visitor Design Pattern** with the following compon
 ![image](https://github.com/user-attachments/assets/a81def47-124e-4ce7-a47c-93a34882a2c9)
 
 The following diagram illustrates:
-- The architecture of the Furniture Shipping Visitor
+- The architecture of the Furniture Shipping System
 - Relationships between the core components:
   - The `Furniture` interface
   - Concrete implementations: `Chair`, `Table`, `Sofa`

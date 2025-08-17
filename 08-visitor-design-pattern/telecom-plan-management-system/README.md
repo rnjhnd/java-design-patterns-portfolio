@@ -4,7 +4,7 @@ A Java implementation of the **Visitor Design Pattern** for analyzing and compar
 
 ## 📋 Overview
 
-The Telecom Plan Visitor allows you to analyze different telecom subscription plans (Smart, Globe, and Dito) by applying various visitor operations. The system uses the Visitor pattern to separate algorithms from the objects they operate on, making it easy to add new analysis operations without changing the telecom plan classes.
+The Telecom Plan Management System allows you to analyze different telecom subscription plans (Smart, Globe, and Dito) by applying various visitor operations. The system uses the Visitor pattern to separate algorithms from the objects they operate on, making it easy to add new analysis operations without changing the telecom plan classes.
 
 ## 🏗️ Architecture
 

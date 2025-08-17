@@ -4,7 +4,7 @@ A Java implementation of the **Facade Design Pattern** for efficient home automa
 
 ## 📋 Overview
 
-The Intelligent Home Facade Manager allows you to control various home devices (lights, TV, and air conditioning) through a single, simplified interface. Instead of requiring users to interact with each device individually, the system provides a unified facade that abstracts the complexity of the underlying subsystems, making home automation more intuitive and maintainable.
+The Intelligent Home System allows you to control various home devices (lights, TV, and air conditioning) through a single, simplified interface. Instead of requiring users to interact with each device individually, the system provides a unified facade that abstracts the complexity of the underlying subsystems, making home automation more intuitive and maintainable.
 
 ## 🏗️ Architecture
 
@@ -27,7 +27,7 @@ This project implements the **Facade Design Pattern** with the following compone
 ![image](https://github.com/user-attachments/assets/c49aa490-6d33-4491-9773-d45630d54481)
 
 The following diagram illustrates:
-- The architecture of the Intelligent Home Facade Manager
+- The architecture of the Intelligent Home System
 - Relationships between the core components:
   - The `HomeService` interface
   - Concrete implementations: `Light`, `TV`, `AirConditioning`

@@ -1,10 +1,10 @@
-# Animal Prototype Manager
+# Animal Registry System
 
 A Java implementation of the **Prototype Design Pattern** for efficient animal creation and management. This project demonstrates how to use prototype objects to create new animal instances without the overhead of complex initialization.
 
 ## 📋 Overview
 
-The Animal Prototype Manager allows you to create different types of animals (Sheep, Cow, and Horse) using pre-configured prototypes. Instead of creating new animal instances from scratch each time, the system clones existing prototype objects, making animal creation more efficient and consistent.
+The Animal Registry System allows you to create different types of animals (Sheep, Cow, and Horse) using pre-configured prototypes. Instead of creating new animal instances from scratch each time, the system clones existing prototype objects, making animal creation more efficient and consistent.
 
 ## 🏗️ Architecture
 

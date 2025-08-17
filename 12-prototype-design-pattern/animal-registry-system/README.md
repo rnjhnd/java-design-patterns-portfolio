@@ -26,7 +26,7 @@ This project implements the **Prototype Design Pattern** with the following comp
 <img width="1348" height="646" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/9206e5bb-5bb1-45ef-b9d2-d5cb947eb03a" />
 
 The following diagram illustrates:
-- The architecture of the Animal Prototype Manager
+- The architecture of the Animal Registry System
 - Relationships between the core components:
   - The `Animal` interface
   - Concrete implementations: `Sheep`, `Cow`, `Horse`

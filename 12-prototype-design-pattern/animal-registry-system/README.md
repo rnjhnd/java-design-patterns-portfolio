@@ -24,7 +24,7 @@ This project implements the **Prototype Design Pattern** with the following comp
 
 ## 📊 UML Class Diagram
 
-<img width="1348" height="646" alt="image" src="https://github.com/user-attachments/assets/07c71619-36ba-4f42-88e2-a81f3afa0eed" />
+<img width="1348" height="573" alt="image" src="https://github.com/user-attachments/assets/005fa2a4-0698-48df-b9c7-356bbace97be" />
 
 The following diagram illustrates:
 - The architecture of the Animal Registry System

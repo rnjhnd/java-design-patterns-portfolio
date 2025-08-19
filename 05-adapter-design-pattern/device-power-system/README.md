@@ -24,7 +24,7 @@ This project implements the **Adapter Design Pattern** with the following compon
 
 ## 📊 UML Class Diagram
 
-<img width="2060" height="1200" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/3c0bac52-8549-4bb4-aa8e-5f20d74ca323" />
+<img width="2060" height="1200" alt="image" src="https://github.com/user-attachments/assets/24cf536d-80a6-4f48-88ff-eda6d97d14fa" />
 
 The following diagram illustrates:
 - The architecture of the Device Power System

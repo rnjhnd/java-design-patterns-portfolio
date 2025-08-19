@@ -24,7 +24,7 @@ This project implements the **Chain of Responsibility Design Pattern** with the 
 
 ## 📊 UML Class Diagram
 
-<img width="1510" height="706" alt="image" src="https://github.com/user-attachments/assets/9d88d715-c4a3-4895-8369-560cd5668011" />
+<img width="1990" height="1160" alt="image" src="https://github.com/user-attachments/assets/28789e6a-93dd-449f-ad72-12c0d04c00c8" />
 
 <!--
 ```

@@ -25,7 +25,7 @@ This project implements the **Visitor Design Pattern** with the following compon
 
 ## 📊 UML Class Diagram
 
-![image](https://github.com/user-attachments/assets/a81def47-124e-4ce7-a47c-93a34882a2c9)
+<img width="2700" height="1060" alt="image" src="https://github.com/user-attachments/assets/68a9e6fd-0a2d-4538-8d2b-f6f26276f813" />
 
 The following diagram illustrates:
 - The architecture of the Furniture Shipping System

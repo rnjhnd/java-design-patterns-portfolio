@@ -24,7 +24,8 @@ This project implements the **Decorator Design Pattern** with the following comp
 - **Extensibility**: Easy to add new account variants
 
 ## 📊 UML Class Diagram
-<img width="1293" height="807" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/32fef137-db4b-4663-bec2-0717a7206416" />
+
+<img width="1293" height="807" alt="image" src="https://github.com/user-attachments/assets/69566859-7b33-45fd-ac0e-77599d8844ba" />
 
 The following diagram illustrates:
 

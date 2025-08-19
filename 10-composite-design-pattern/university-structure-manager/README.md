@@ -26,7 +26,8 @@ This project implements the **Composite Design Pattern** with the following comp
 - **Recursive aggregation**: Totals are computed by delegating to child components
 
 ## 📊 UML Class Diagram
-<img width="2080" height="960" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/dba21021-acd3-4e97-83cf-e4d56cb5e426" />
+
+<img width="2080" height="960" alt="image" src="https://github.com/user-attachments/assets/f4df0045-4f55-4a8d-814a-29e9584c2dfb" />
 
 The following diagram illustrates:
 

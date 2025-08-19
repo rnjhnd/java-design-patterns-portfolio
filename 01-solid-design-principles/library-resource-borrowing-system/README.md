@@ -32,7 +32,8 @@ This project implements **SOLID Design Principles** with the following component
 - **Type Safety**: Strong typing ensures compile-time safety
 
 ## 📊 UML Class Diagram
-<img width="1440" height="891" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/8df21601-7142-4d7b-a225-143d6608c26a" />
+
+<img width="1440" height="891" alt="image" src="https://github.com/user-attachments/assets/11e904e3-8054-4564-aec7-6ccf5d88d5b6" />
 
 The following diagram illustrates:
 - The architecture of the Library Resource Borrowing System

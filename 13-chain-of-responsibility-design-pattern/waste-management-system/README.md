@@ -24,6 +24,9 @@ This project implements the **Chain of Responsibility Design Pattern** with the 
 
 ## 📊 UML Class Diagram
 
+<img width="1510" height="706" alt="image" src="https://github.com/user-attachments/assets/9d88d715-c4a3-4895-8369-560cd5668011" />
+
+<!--
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
 │                           Waste Management System                                   │
@@ -102,6 +105,7 @@ This project implements the **Chain of Responsibility Design Pattern** with the 
 
 Chain Flow: OrganicCollection → RecyclableCollection → HazardousCollection → GeneralCollection
 ```
+-->
 
 The following diagram illustrates:
 - The architecture of the Waste Management System

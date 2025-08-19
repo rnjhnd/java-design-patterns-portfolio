@@ -27,7 +27,7 @@ This project implements the **SOLID Design Principles** with the following compo
 
 ## 📊 UML Class Diagram
 
-![image](https://github.com/user-attachments/assets/e2d22dfc-e584-43a8-822b-7b5291cc0ccd)
+<img width="1800" height="1240" alt="image" src="https://github.com/user-attachments/assets/9178fffc-dca9-47d2-9cb8-b2c5e5ff2758" />
 
 The following diagram illustrates:
 - The architecture of the Order Processing System

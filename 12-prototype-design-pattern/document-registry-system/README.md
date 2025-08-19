@@ -25,6 +25,8 @@ This project implements the **Prototype Design Pattern** with the following comp
 ## 📊 UML Class Diagram
 
 ![image](https://github.com/user-attachments/assets/c49aa490-6d33-4491-9773-d45630d54481)
+<img width="1980" height="670" alt="image" src="https://github.com/user-attachments/assets/743f5a30-b848-4ea4-ae9e-fd1400bfe2d9" />
+
 
 The following diagram illustrates:
 - The architecture of the Document Registry System

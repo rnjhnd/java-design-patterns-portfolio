@@ -24,7 +24,7 @@ This project implements the **Facade Design Pattern** with the following compone
 
 ## 📊 UML Class Diagram
 
-<img width="1980" height="670" alt="image" src="https://github.com/user-attachments/assets/37d175b3-1296-43a8-ad72-92a5480d9754" />
+<img width="1362" height="1280" alt="image" src="https://github.com/user-attachments/assets/9ad28462-8132-4961-82d9-a56ac442f7e1" />
 
 The following diagram illustrates:
 - The architecture of the Hotel Management System

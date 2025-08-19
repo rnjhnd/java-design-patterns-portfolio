@@ -23,7 +23,7 @@ This project implements the **Singleton Pattern** with the following components:
 
 ## 📊 UML Class Diagram
 
-<img width="1223" height="632" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/345a6c6a-3647-4b0c-8141-66cf2c58b6bc" />
+<img width="1223" height="632" alt="image" src="https://github.com/user-attachments/assets/e88445e1-2184-402a-b7c2-dc93d6ce64c8" />
 
 The following diagram illustrates:
 

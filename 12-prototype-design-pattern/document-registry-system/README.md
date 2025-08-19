@@ -26,7 +26,6 @@ This project implements the **Prototype Design Pattern** with the following comp
 
 <img width="1980" height="670" alt="image" src="https://github.com/user-attachments/assets/743f5a30-b848-4ea4-ae9e-fd1400bfe2d9" />
 
-
 The following diagram illustrates:
 - The architecture of the Document Registry System
 - Relationships between the core components:

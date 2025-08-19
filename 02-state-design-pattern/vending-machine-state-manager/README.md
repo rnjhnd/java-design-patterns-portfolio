@@ -25,7 +25,7 @@ This project implements the **State Design Pattern** with the following componen
 
 ## 📊 UML Class Diagram
 
-![image](https://github.com/user-attachments/assets/ae7b7c13-00ae-4639-b7a1-576aedbc6b7e)
+<img width="1980" height="670" alt="image" src="https://github.com/user-attachments/assets/f1ba4ee6-3802-438a-9cba-1ca4eb47233c" />
 
 The following diagram illustrates:
 - The architecture of the Vending Machine State Manager

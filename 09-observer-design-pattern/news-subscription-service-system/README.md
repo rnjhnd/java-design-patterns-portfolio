@@ -25,7 +25,7 @@ This project implements the **Observer Design Pattern** with the following compo
 
 ## 📊 UML Class Diagram
 
-![image](https://github.com/user-attachments/assets/f92438bc-eea1-43e5-88c3-5fc6b9e4445f)
+<img width="1996" height="1040" alt="image" src="https://github.com/user-attachments/assets/e8d86a7c-a145-4738-907f-0f7038567bc4" />
 
 The following diagram illustrates:
 - The architecture of the News Subscription Service System

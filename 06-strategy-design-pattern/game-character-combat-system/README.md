@@ -26,6 +26,8 @@ This project implements the **Strategy Design Pattern** with the following compo
 
 ## 📊 UML Class Diagram
 
+<img width="3604" height="2003" alt="image" src="https://github.com/user-attachments/assets/27679390-85bb-43d0-9259-c6456fe84db9" />
+
 The following diagram illustrates:
 - The architecture of the Game Character Combat System
 - Relationships between the core components:
